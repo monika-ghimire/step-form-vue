@@ -1,17 +1,5 @@
 <template>
-  <div class="pl-20 pt-10">
-    <div class="form-heading-holder border-b-2 border-indigo-10 pb-6">
-      <h3 class="text-slate-700 font-semibold">Step 3 of 3</h3>
-      <h4 class="text-slate-900 pt-5" @click="$emit('back')">
-        Back to Add Curriculum
-      </h4>
-      <h1 class="text-xl font-semibold pt-6">Review & publish course</h1>
-      <h5 class="text-slate-900 pt-4">
-        Review the Curriculum you have build and Choose when to publish your
-        course.
-      </h5>
-    </div>
-
+  <div class="">
     <section class="pt-6 border-b-2 border-indigo-10 pb-20">
       <div>
         <h1 class="font-semibold">Publish Date & time</h1>
