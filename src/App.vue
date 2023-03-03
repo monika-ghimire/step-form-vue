@@ -142,6 +142,7 @@ export default {
 </style>
 
 <style scoped>
+
 .el-steps--vertical {
   height: 209px;
   flex-flow: column;
